@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head></head>
+<head><title>This Hello World</title></head>
 <body>
 Hello, World<br>
 It's another day here on Earth<br>
